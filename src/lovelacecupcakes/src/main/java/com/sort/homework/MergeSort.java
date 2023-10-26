@@ -1,4 +1,4 @@
-package com.sort;
+package com.sort.homework;
 
 import org.json.simple.*;
 

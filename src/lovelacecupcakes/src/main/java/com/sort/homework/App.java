@@ -1,4 +1,4 @@
-package homework;
+package com.sort.homework;
 
 /**
  * Hello world!
